@@ -7,7 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>WebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  
+<!--  
 <distributionManagement>
     <repository>
       <id>deployment</id>
@@ -20,7 +20,7 @@
       <url>http://10.23.12.240:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
 </distributionManagement>
-
+-->
   <properties>
 	<jdk.version>1.7</jdk.version>
 	<spring.version>4.1.1.RELEASE</spring.version>
